@@ -2,7 +2,7 @@
 # DGScrollableSegmentControl
 An elegant scrollable segment control.
 
-![simulator screen shot - iphone 7 plus - 2017-08-23 at 11 17 04](https://user-images.githubusercontent.com/12591229/29600286-b4e21872-87f4-11e7-8e8f-582686cf6e91.png)
+![screen shot 2017-08-23 at 3 04 10 pm](https://user-images.githubusercontent.com/12591229/29608611-626764ce-8814-11e7-9c13-20729ac74e5c.png)
 
 # Usage
 1. Drag DGScrollableSegmentControl.swift to your project.
