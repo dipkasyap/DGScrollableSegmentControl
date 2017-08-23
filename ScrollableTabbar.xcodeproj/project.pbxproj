@@ -8,20 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		1816A9781F46A798004968B7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1816A9771F46A798004968B7 /* AppDelegate.swift */; };
-		1816A97A1F46A798004968B7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1816A9791F46A798004968B7 /* ViewController.swift */; };
+		1816A97A1F46A798004968B7 /* DGScrollableSegmentControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1816A9791F46A798004968B7 /* DGScrollableSegmentControl.swift */; };
 		1816A97D1F46A798004968B7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1816A97B1F46A798004968B7 /* Main.storyboard */; };
 		1816A97F1F46A798004968B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1816A97E1F46A798004968B7 /* Assets.xcassets */; };
 		1816A9821F46A798004968B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1816A9801F46A798004968B7 /* LaunchScreen.storyboard */; };
+		1816A98A1F46B115004968B7 /* DGSpringButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1816A9891F46B115004968B7 /* DGSpringButton.swift */; };
+		1816A98C1F46BB0E004968B7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1816A98B1F46BB0E004968B7 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1816A9741F46A798004968B7 /* ScrollableTabbar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollableTabbar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1816A9771F46A798004968B7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1816A9791F46A798004968B7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1816A9791F46A798004968B7 /* DGScrollableSegmentControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DGScrollableSegmentControl.swift; sourceTree = "<group>"; };
 		1816A97C1F46A798004968B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1816A97E1F46A798004968B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1816A9811F46A798004968B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1816A9831F46A798004968B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1816A9891F46B115004968B7 /* DGSpringButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DGSpringButton.swift; sourceTree = "<group>"; };
+		1816A98B1F46BB0E004968B7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +59,9 @@
 			isa = PBXGroup;
 			children = (
 				1816A9771F46A798004968B7 /* AppDelegate.swift */,
-				1816A9791F46A798004968B7 /* ViewController.swift */,
+				1816A9791F46A798004968B7 /* DGScrollableSegmentControl.swift */,
+				1816A98B1F46BB0E004968B7 /* ViewController.swift */,
+				1816A9891F46B115004968B7 /* DGSpringButton.swift */,
 				1816A97B1F46A798004968B7 /* Main.storyboard */,
 				1816A97E1F46A798004968B7 /* Assets.xcassets */,
 				1816A9801F46A798004968B7 /* LaunchScreen.storyboard */,
@@ -135,7 +141,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1816A97A1F46A798004968B7 /* ViewController.swift in Sources */,
+				1816A97A1F46A798004968B7 /* DGScrollableSegmentControl.swift in Sources */,
+				1816A98A1F46B115004968B7 /* DGSpringButton.swift in Sources */,
+				1816A98C1F46BB0E004968B7 /* ViewController.swift in Sources */,
 				1816A9781F46A798004968B7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
