@@ -15,7 +15,7 @@ An elegant scrollable segment control.
         func itemfor(_ index: Int) -> DGItem 
 
 # Delegate Methods to implement 
-         func didSelect(_ item: DGItem, atIndex index: Int) {
+         func didSelect(_ item: DGItem, atIndex index: Int) 
 
 For more reference See demo project
 
